@@ -1,2 +1,6 @@
-pydantic==2.12.5
-fastapi==0.129.0
+pandas
+numpy
+matplotlib
+sklearn
+seaborn
+tensorflow
